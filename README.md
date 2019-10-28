@@ -5,3 +5,4 @@ Docker image with [Jupyter sandbox](https://help.keboola.com/manipulation/transf
 transformations and sandboxes. To run locally set environment variables (use `.env.template`) and 
 run `docker-compose up`. Public image is available on 
 [Quay](https://quay.io/repository/keboola/docker-r-jupyter).
+
